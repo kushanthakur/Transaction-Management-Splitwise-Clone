@@ -1,1 +1,0 @@
-# Transaction-Management-Splitwise-Clone
